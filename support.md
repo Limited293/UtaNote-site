@@ -38,4 +38,4 @@ UtaNoteでは、アプリ内からアカウント削除を開始できる機能�
 
 UtaNoteのデータ取扱いについては、[UtaNote プライバシーポリシー](./privacy.md)をご確認ください。
 
-運営者：i.yam
+運営者：Itsuki Yamaguchi
