@@ -78,8 +78,6 @@ UtaShirabe（以下「本アプリ」）は、サービス提供に必要な範�
 
 ## 9. お問い合わせ
 
-開発ブランド：tsuki03
-
-運営者：Itsuki Yamaguchi（山口樹）
+開発・運営：tsuki03
 
 お問い合わせ先：tsuki03.dev@gmail.com
