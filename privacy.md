@@ -6,7 +6,7 @@ title: UtaNote プライバシーポリシー
 
 最終更新日：2026年8月23日
 
-UtaNote（以下「本アプリ」）は、Itsuki Yamaguchiが提供するカラオケ向け楽曲管理アプリです。本アプリは、サービス提供に必要な範囲でユーザーに関する情報を取り扱います。
+UtaNote（以下「本アプリ」）は、**tsuki03** の名称で開発・提供されています。正式な運営者は **Itsuki Yamaguchi** です。本アプリは、サービス提供に必要な範囲でユーザーに関する情報を取り扱います。
 
 ## 1. 取得する情報
 
@@ -79,6 +79,8 @@ UtaNote（以下「本アプリ」）は、Itsuki Yamaguchiが提供するカラ
 
 ## 9. お問い合わせ
 
-運営者：Itsuki Yamaguchi
+開発名：tsuki03
+
+正式な運営者名：Itsuki Yamaguchi
 
 お問い合わせ先：tsuki03.dev@gmail.com
