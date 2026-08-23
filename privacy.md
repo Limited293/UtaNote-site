@@ -1,8 +1,7 @@
 ---
-title: UtaNote プライバシーポリシー
+layout: page
+title: プライバシーポリシー
 ---
-
-# UtaNote プライバシーポリシー
 
 最終更新日：2026年8月23日
 
@@ -79,8 +78,6 @@ UtaNote（以下「本アプリ」）は、サービス提供に必要な範囲�
 
 ## 9. お問い合わせ
 
-開発：tsuki03
-
-運営者：Itsuki Yamaguchi
+開発・運営：tsuki03
 
 お問い合わせ先：tsuki03.dev@gmail.com
