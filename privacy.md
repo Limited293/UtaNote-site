@@ -81,4 +81,4 @@ UtaNote（以下「本アプリ」）は、i.yamが提供するカラオケ向�
 
 運営者：i.yam
 
-お問い合わせ先：`[SUPPORT_EMAIL]`
+お問い合わせ先：tsuki03.dev@gmail.com
